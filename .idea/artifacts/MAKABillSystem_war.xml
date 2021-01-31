@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MAKABillSystem:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MAKABillSystem</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MAKABillSystem.war">
+      <element id="artifact" artifact-name="MAKABillSystem:war exploded" />
+    </root>
+  </artifact>
+</component>
