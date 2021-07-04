@@ -13,11 +13,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2386d8b6-c6d3-4eb9-946d-f665e60fe012" name="Default Changelist" comment="测试Test" />
+    <list default="true" id="2386d8b6-c6d3-4eb9-946d-f665e60fe012" name="Default Changelist" comment="测试Test">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_1_31_19_57_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_1_31_19_57__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/maka/pojo/Agao.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -38,6 +50,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1npkSzeElgE8Caueh101hghxkxV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -48,7 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,7 +72,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.23908046" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="Push.Settings">
     <option name="SHOW_DETAILS_PANEL" value="false" />
@@ -160,6 +173,10 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Agao\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2386d8b6-c6d3-4eb9-946d-f665e60fe012" name="Default Changelist" comment="" />
@@ -180,6 +197,13 @@
       <workItem from="1612063717326" duration="3286000" />
       <workItem from="1612076761323" duration="49000" />
       <workItem from="1612093530512" duration="876000" />
+      <workItem from="1612094429564" duration="951000" />
+      <workItem from="1612138691765" duration="23000" />
+      <workItem from="1620349627256" duration="539000" />
+      <workItem from="1622511683110" duration="132000" />
+      <workItem from="1625301514294" duration="129000" />
+      <workItem from="1625389692094" duration="465000" />
+      <workItem from="1625408767967" duration="483000" />
     </task>
     <task id="LOCAL-00001">
       <created>1611536731061</created>
@@ -267,17 +291,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="测试Test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="554" y="324" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1612094387374">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="540" y="159" key="FileChooserDialogImpl" timestamp="1625408924454">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="554" y="324" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.834@0.0.1536.834" timestamp="1612094387374" />
-    <state x="546" y="158" key="FileChooserDialogImpl" timestamp="1612094386145">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="540" y="159" key="FileChooserDialogImpl/0.0.1536.816/1920.0.1440.900@0.0.1536.816" timestamp="1625408924454" />
+    <state x="600" y="305" key="Github.ShareDialog" timestamp="1625409244187">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="546" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1612094386145" />
-    <state x="246" y="0" key="SettingsEditor" timestamp="1612094388445">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="600" y="305" key="Github.ShareDialog/0.0.1536.816/1920.0.1440.900@0.0.1536.816" timestamp="1625409244187" />
+    <state x="257" y="77" key="SettingsEditor" timestamp="1625408900788">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="246" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1612094388445" />
+    <state x="257" y="77" key="SettingsEditor/0.0.1536.816/1920.0.1440.900@0.0.1536.816" timestamp="1625408900788" />
+    <state x="257" y="79" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1625390153229" />
   </component>
 </project>
