@@ -14,11 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2386d8b6-c6d3-4eb9-946d-f665e60fe012" name="Default Changelist" comment="测试Test">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_1_31_19_57_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_1_31_19_57__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/maka/pojo/Agao.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +199,7 @@
       <workItem from="1622511683110" duration="132000" />
       <workItem from="1625301514294" duration="129000" />
       <workItem from="1625389692094" duration="465000" />
-      <workItem from="1625408767967" duration="483000" />
+      <workItem from="1625408767967" duration="1116000" />
     </task>
     <task id="LOCAL-00001">
       <created>1611536731061</created>
@@ -295,14 +291,18 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="540" y="159" key="FileChooserDialogImpl/0.0.1536.816/1920.0.1440.900@0.0.1536.816" timestamp="1625408924454" />
-    <state x="600" y="305" key="Github.ShareDialog" timestamp="1625409244187">
+    <state x="537" y="261" key="Github.ShareDialog" timestamp="1625409757424">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="600" y="305" key="Github.ShareDialog/0.0.1536.816/1920.0.1440.900@0.0.1536.816" timestamp="1625409244187" />
-    <state x="257" y="77" key="SettingsEditor" timestamp="1625408900788">
+    <state x="537" y="261" key="Github.ShareDialog/0.0.1536.816/1920.0.1440.900@0.0.1536.816" timestamp="1625409757424" />
+    <state x="257" y="77" key="SettingsEditor" timestamp="1625409892449">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="257" y="77" key="SettingsEditor/0.0.1536.816/1920.0.1440.900@0.0.1536.816" timestamp="1625408900788" />
+    <state x="257" y="77" key="SettingsEditor/0.0.1536.816/1920.0.1440.900@0.0.1536.816" timestamp="1625409892449" />
     <state x="257" y="79" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1625390153229" />
+    <state x="560" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625409293191">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="560" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816/1920.0.1440.900@0.0.1536.816" timestamp="1625409293191" />
   </component>
 </project>
